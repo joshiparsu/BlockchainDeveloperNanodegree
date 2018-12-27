@@ -100,3 +100,7 @@ If everything is fine till this point, you are all set to test the contract func
 
 **P.S. : If you check the truffle-config.js file, it has 2 constants, "mnemonic" and "rinkebyEndpoint". Please make sure you update these 2 variables with appropriate values. 
 You can find the mnemonic of your account from MetaMask -> Settingss -> Reveal Seed Words and rinkebyEndPoint from Infura web-console**
+
+## References
+* [Ethereum Development Walkthrough](https://hackernoon.com/ethereum-development-walkthrough-part-2-truffle-ganache-geth-and-mist-8d6320e12269)
+* The web UI is inspired from [navlin07](https://github.com/navlin07/decentralized-star-notary)'s prjoect
